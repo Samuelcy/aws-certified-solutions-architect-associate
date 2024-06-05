@@ -1,6 +1,4 @@
-# aws-certified-solutions-architect-professional
-
-# AWS Certified Solutions Architect – Professional (SAP-C02) Notes
+# AWS Certified Solutions Architect - Professional
 
 ## Table of Contents
 
