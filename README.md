@@ -1,4 +1,4 @@
-# AWS Certified Solutions Architect - Professional
+# AWS Certified Solutions Architect - Professional Notes
 
 ## Table of Contents
 
@@ -126,6 +126,6 @@ AWS Certified Solutions Architect - Professional is intended for individuals wit
 - Time: 190 minutes to complete the exam (with a possibility to request 30 minutes extra for non-native english speakers)
 
 ## Credits
-
+- Note template is based off of [Ervinyoke's] https://github.com/Ernyoke/certified-aws-solutions-architect-professional template.
 - These notes are based on the [AWS Certified Solutions Architect - Professional course](https://learn.cantrill.io/p/aws-certified-solutions-architect-professional) by Adrian Cantrill and on [Ultimate AWS Certified Solutions Architect Professional 2021](https://www.udemy.com/course/aws-solutions-architect-professional/) by Stephane Maarek
 - All images present in the notes are taken from Adrian Cantrill's GitHub [repository](https://github.com/Ernyoke/aws-sa-pro) for his course
