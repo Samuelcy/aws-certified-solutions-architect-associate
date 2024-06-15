@@ -1,4 +1,4 @@
-# AWS Certified Solutions Architect - Notes
+# AWS Certified Solutions Architect - Associate Notes
 - **AWS Note template is derived from [Ervinyoke's](https://github.com/Ernyoke/certified-aws-solutions-architect-professional) repository. The notes taken here are of my own.**
 
 ## Table of Contents
