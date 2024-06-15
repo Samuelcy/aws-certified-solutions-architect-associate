@@ -8,49 +8,49 @@
     - [X](X)
    
 2. Advanced Identities and Federation
-     - [X](X)
+    - [X](X)
     
 3. Networking and Hybrid
     - [X](X)
   
 4. Storage Services
-     - [X](X)
+    - [X](X)
   
 5. Compute, Scaling and Load Balancing
-     - [X](X)
+    - [X](X)
   
 6. Monitoring, Logging and Cost Management
-      - [X](X)
+    - [X](X)
   
 7. Databases
-      - [X](X)
+    - [X](X)
   
 8. Data Analytics
-      - [X](X)
+    - [X](X)
   
 9. App Services, Containers and Serverless
-      - [X](X)
+    - [X](X)
   
 10. Caching, Delivery and Edge
- - [X](X)
+    - [X](X)
   
 12. Migrations and Extensions
-         - [X](X)
+    - [X](X)
   
 13. Security and Configuration Management
-       - [X](X)
+    - [X](X)
   
 14. Disaster Recovery and Business Continuity in AWS
-      - [X](X)
+    - [X](X)
   
 15. Infrastructure as Code
-      - [X](X)
+    - [X](X)
   
 16. Deployment and Management
-       - [X](X)
+    - [X](X)
   
 17. Everything Else
-      - [X](X)
+    - [X](X)
 
 ## Exam Description
 
@@ -62,15 +62,16 @@ AWS Certified Solutions Architect - Associate is a great starting point on the A
 ## Preparation
 
 - Official Exam Guide: [https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Exam-Guide.pdf)
+- Official Sample Questions: [https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS-Certified-Solutions-Architect-Professional_Sample-Questions.pdf](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 
 - The exam may contain two types of questions:
     - Multiple choice
     - Multiple response
 
-- Minimum passing score: 750/1000
-- Number of questions: 75
-- Time: 190 minutes to complete the exam (with a possibility to request 30 minutes extra for non-native english speakers)
-
+- Minimum passing score: 720/1000
+- Number of questions: 65
+- Time: 130
+  
 ## Credits
 - These notes are based on the [x](x)
 
