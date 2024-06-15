@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect - Associate Notes
 
-(AWS Certified Solutions Architect - Associate)[https://aws.amazon.com/certification/certified-solutions-architect-associate/]
+[AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 ## Table of Contents
 
